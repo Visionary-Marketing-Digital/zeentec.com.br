@@ -8460,7 +8460,7 @@ h1, h2, h3, h4, h5,
       margin-right: -35px; } }
   .icon-video span {
     font-size: 20px;
-    color: #fff; }
+    color: #000; }
     .icon-video:hover{
       background: #bdd639;
     }
@@ -8479,7 +8479,7 @@ h1, h2, h3, h4, h5,
       width: 100%;
       display: block; } }
   .years h4 span {
-    color: #fff; }
+    color: #000; }
 
 .tabulation-2 .nav-pills .nav-item .nav-link {
   background: #fff;
@@ -8490,7 +8490,7 @@ h1, h2, h3, h4, h5,
   .tabulation-2 .nav-pills .nav-item .nav-link span {
     color: #bdd639; }
   .tabulation-2 .nav-pills .nav-item .nav-link.active {
-    color: #fff;
+    color: #000;
     background: #bdd639;
     border: 1px solid #bdd639; }
     .tabulation-2 .nav-pills .nav-item .nav-link.active span {
@@ -8560,7 +8560,7 @@ h1, h2, h3, h4, h5,
     -ms-transition: all 0.3s ease;
     transition: all 0.3s ease; }
     .services .btn-custom span {
-      color: #fff; }
+      color: #000; }
   .services:hover .btn-custom {
     opacity: 1;
     bottom: -25px; }
@@ -8955,7 +8955,8 @@ textarea.form-control {
 
 .heading-section h2 {
   font-size: 30px;
-  font-weight: 700; }
+  font-weight: 700;
+  color: #fff; }
   @media (max-width: 767.98px) {
     .heading-section h2 {
       font-size: 28px; } }
@@ -9063,7 +9064,7 @@ textarea.form-control {
     font-weight: 500;
     font-size: 20px;
     margin-bottom: 0;
-    color: #000000; }
+    color: #fff; }
   .testimony-wrap .position {
     font-size: 16px;
     color: #bdd639; }
@@ -9818,5 +9819,5 @@ textarea.form-control {
 
 /* Fundo geral do site */
 body {
-  background-color: #f5f5f5;
+  background-color: #000;
 }
