@@ -8848,6 +8848,8 @@ textarea.form-control {
     color: #C6D600 ;
     font-size: 16px; }
   .ftco-footer .opening-hours p span {
+    font-size: 14px;
+    display: block !important;
     color: rgba(255, 255, 255, 0.9); }
 
 .ftco-footer-social li {
